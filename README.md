@@ -1,4 +1,4 @@
-# Diabetic Prediction Machine Learning Model
+# Diabetic Prediction Machine Learning Model 🤖
 
 This project implements a machine learning model to predict diabetes using the `svm.SVC` classifier from the scikit-learn library.
 
