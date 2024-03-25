@@ -50,9 +50,9 @@ You can find an example of how to use this code in the provided Jupyter Notebook
 
 ## Results
 
-- *Histogram of Features*: ![Histogram](histogram.png)
-- *Class Distribution*: ![Class Distribution](class_distribution.png)
-- *Model Accuracy*: ![Accuracy](accuracy_plot.png)
+- *Histogram of Features*: ![Histogram](results/histogram-of-features.png)
+- *Class Distribution*: ![Class Distribution](results/class distribution.png)
+- *Model Accuracy*: ![Accuracy](results/model accuracy.png)
 
 ## Conclusion
 
