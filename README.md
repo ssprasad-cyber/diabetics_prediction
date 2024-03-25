@@ -1,7 +1,3 @@
-Sure! Here's an expanded version of the README file with suggestions for images to add:
-
----
-
 # Diabetic Prediction Machine Learning Model
 
 This project implements a machine learning model to predict diabetes using the `svm.SVC` classifier from the scikit-learn library.
@@ -27,6 +23,9 @@ You can install the required libraries using pip:
 !pip install scikit-learn
 !pip install matplotlib
 ```
+## Dataset
+
+The dataset used for this project can be found [here](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset).
 
 ## Usage
 
@@ -43,25 +42,21 @@ You can install the required libraries using pip:
 6. **Model Evaluation**: Evaluate the model's accuracy on both the training and testing datasets. *(Example: Accuracy scores)*
 
 7. **Making Predictions**: Make predictions using the trained model.
+   
+## Kaggle Notebook
 
-## Example
+This project also includes a Kaggle notebook where you can find a detailed analysis and implementation of the diabetic prediction model. The notebook covers data exploration, preprocessing, model training, evaluation, and more.
 
-You can find an example of how to use this code in the provided Jupyter Notebook (`diabetics-prediction-project.ipynb`).
+You can access the Kaggle notebook [here](https://www.kaggle.com/saragadamsaiprasad/diabetics-prediction).
+
 
 ## Results
 
 - *Histogram of Features*: ![Histogram](results/histogram-of-features.png)
-- *Class Distribution*: ![Class Distribution](results/class distribution.png)
-- *Model Accuracy*: ![Accuracy](results/model accuracy.png)
+- *Class Distribution*: ![Class Distribution](results/class_distribution.png)
+- *Model Accuracy*: ![Accuracy](results/model_accuracy.png)
 
 ## Conclusion
 
 This machine learning model demonstrates promising results in predicting diabetes based on the provided dataset. Further refinement and optimization may enhance its performance in real-world applications.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-You can include images like a histogram of features, class distribution, and a plot showing model accuracy. Make sure to replace `histogram.png`, `class_distribution.png`, and `accuracy_plot.png` with the actual filenames of the images you want to include.
